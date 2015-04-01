@@ -3,6 +3,9 @@
 ![╯°□°╯](https://i.imgur.com/7uxZtq7.jpg)
 
 When `throw` is not enough.
+[![Build Status](https://travis-ci.org/jstepien/flip.svg)][travis]
+
+[travis]: https://travis-ci.org/jstepien/flip
 
 ## Usage
 
