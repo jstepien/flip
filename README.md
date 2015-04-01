@@ -27,11 +27,13 @@ There's no artifact on Clojars¹ but it doesn't matter because you can simply
 
 Yes.
 
-  - Bare meta speed!
+  - [Bare meta][meta] speed!
   - Native look and feel!
   - Tested up to Clojure 1.7.0-α6!
   - Known production applications²!
   - Compatible with Stuart Sierra's Component!
+
+[meta]: https://twitter.com/thejayfields/status/572837627927371777
 
 ## License
 
