@@ -18,7 +18,7 @@ When `throw` is not enough.
 There's no artifact on Clojars¹ but it doesn't matter because you can simply
 [copypasta the entire source code to your own project][src].
 
-[src]: https://github.com/jstepien/psota/blob/master/src/╯°□°╯.clj
+[src]: https://github.com/jstepien/flip/blob/master/src/%E2%95%AF%C2%B0%E2%96%A1%C2%B0%E2%95%AF.clj
 
 ## Is it any good?
 
