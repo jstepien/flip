@@ -16,6 +16,14 @@ When `throw` is not enough.
 
 ;; Throw an ex-info exception.
 (╯°□°╯︵oɟuᴉ {:some {:extra :data}})
+
+;; Sometimes tables must be respected, and so they may be caught as well
+(v°□°v
+  (/ 1 0)
+  (┬─┬ ╯°_°╯ ArithmeticException
+    (log/error ┬─┬)
+    0))
+
 ```
 
 There's no artifact on Clojars¹ but it doesn't matter because you can simply
