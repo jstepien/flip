@@ -11,3 +11,7 @@
   (is (thrown-with-msg?
         Exception #"^╯°□°╯$"
         (╯°□°╯︵oɟuᴉ {}))))
+
+(deftest v°□°v-test
+  (is (= (v°□°v (/ 1 0) (┬─┬ ╯°_°╯ Exception "caught"))
+         "caught")))
